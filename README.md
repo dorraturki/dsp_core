@@ -30,11 +30,11 @@ This repository contains VHDL implementations for digital signal processing (DSP
 
 ### FIR Filter
 
-![FIR Result](images/fir_result.png)  
+![FIR Result](images/fir.jpg)  
 
 ### IIR Filter
 
-![IIR Result](images/iir_result.png)  
+![IIR Result](images/iir.jpg)  
 *(Insert your IIR result photo here after pushing.)*
 
 ## Usage
