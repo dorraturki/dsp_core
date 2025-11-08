@@ -25,7 +25,7 @@ This repository contains VHDL implementations for digital signal processing (DSP
 - `src/fft_radix2.vhd`: Radix-2 FFT core
 - `src/pkg_dsp_types.vhd`, `src/pkg_iir_types.vhd`, `src/pkg_fft_types.vhd`, `src/pkg_coeffs.vhd`: Type and coefficient packages
 - `src/tb_fir_filter.vhd`, `src/tb_iir_filter_comprehensive.vhd`, `src/tb_fftcomprehensive.vhd`: Testbenches for module validation
-
+- `modelsim/sim.do`, `modelsim/sim_fft.do` and `modelsim/iir_sim.do` : Simulation scipts 
 ## Results
 
 ### FIR Filter
